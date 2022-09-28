@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "SampleFoundation"
   s.version      = "0.0.5.2"
-  s.summary      = "Summary is it."
+  s.summary      = "Summary is it..."
 
   s.description  = <<-DESC
                    A longer description of SampleFoundation in Markdown format.
